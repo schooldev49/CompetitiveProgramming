@@ -12,7 +12,7 @@ public WordMatch(String word)
 */ 
 public int scoreGuess(String guess) 
 { 
-  char[] charArr;
+  char[] charArr = guess.toCharArray();
   int answer = 0;
   for (char i: charArr){
     if (this.secret.indexOf(i) >= 0){
@@ -31,7 +31,7 @@ public String findBetterGuess(String guess1, String guess2)
   int guess1Ans = scoreGuess(guess1);
   int guess2Ans = scoreGuess(guess2);
   
-  return guess1 > guess2 ? guess1 : guess2;
+  return (guess1Ans > guess2Ans) ? guess1 : guess2;
 } 
  
 } 

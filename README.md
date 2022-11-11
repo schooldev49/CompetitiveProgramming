@@ -1,5 +1,12 @@
-# CompetivieProgramming
-here you can witness suffering from Leet-Code
+<div align="center">
+<h1>here you can witness suffering from <i>Leet-Code</i></h1>
+<p>this is a general repository where i post all my competitive programming solutions with explanations in comments and some general resources for programming. </p>
+<b>IMPORTANT: </b>the repository is currently undergoing an overhaul, it will now have categories such as Binary Search, Invert a Binary Tree (SO difficult), etc
 
+<br>
+<h2>Contributing</h2>
+<p>
+you can make a pull request on here and post any solutions in any language but make sure to document the code in comments so others can figure out whats happening easier
+</p>
+</div>
 
-this will be remodeled into specific categories and I will explain each part of the code detailed

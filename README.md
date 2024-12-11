@@ -1,5 +1,5 @@
 <div align="center">
-<h1>here you can witness suffering from <i>Leet-Code</i></h1>
+<h1>here you can see  some problems from <i>Leet-Code</i></h1>
 <p>this is a general repository where i post all my competitive programming solutions with explanations in comments and some general resources for programming. </p>
 <b>IMPORTANT: </b>the repository is currently undergoing an overhaul, it will now have categories such as Binary Search, Invert a Binary Tree (SO difficult), etc
 
